@@ -1,2 +1,2 @@
 # hello-world
-Just to practice 
+Just to practice for fun
